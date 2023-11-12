@@ -1,0 +1,24 @@
+mov 0xabcd1234 reg
+mov 0x1234abcd ar
+mov 0xabcdabcd stk
+
+mov @0xabcd1234 reg
+mov @0x1234abcd ar
+
+mov reg @0x12341234
+mov reg ar
+mov reg @ar
+mov reg stk
+
+mov ar reg
+mov ar stk
+
+mov @ar reg
+mov @ar ar
+
+mov fp reg
+mov fp ar
+mov fp stk
+
+mov stk reg
+mov stk ar

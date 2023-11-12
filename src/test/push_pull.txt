@@ -1,0 +1,6 @@
+psh 0x098765ef
+psh reg
+psh ar
+psh fp
+pul reg
+pul ar

@@ -1,0 +1,1 @@
+inc jmp @0b10000 dec

@@ -1,0 +1,24 @@
+val 0xabcd1234
+adr 0x1234abcd
+psv 0xabcdabcd
+
+get @0xabcd1234
+adf @0x1234abcd
+
+set @0x12341234
+tra
+sea
+psr
+
+tar
+psa
+
+gea
+ada
+
+tfr
+tfa
+psf
+
+plr
+pla

@@ -1,0 +1,6 @@
+$hello inc
+$hi#comment
+inc
+$a $b $c
+$abc%
+inc

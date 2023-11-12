@@ -1,0 +1,9 @@
+cal @0xff
+ret
+
+jma
+
+psv 0x2367327a
+adr 0xabcd1234
+not
+val 0

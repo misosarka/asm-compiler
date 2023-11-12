@@ -1,0 +1,71 @@
+add 0x12345678
+sub 0xabcdabcd
+mul 0x12345678
+and 0xabcdabcd
+orb 0x12345678
+xor 0xabcdabcd
+shl 0x12345678
+shr 0xabcdabcd
+
+add @0x12345678
+sub @0xabcdabcd
+mul @0x12345678
+and @0xabcdabcd
+orb @0x12345678
+xor @0xabcdabcd
+shl @0x12345678
+shr @0xabcdabcd
+
+add @ar
+sub @ar
+mul @ar
+and @ar
+orb @ar
+xor @ar
+shl @ar
+shr @ar
+
+add stk
+sub stk
+mul stk
+and stk
+orb stk
+xor stk
+shl stk
+shr stk
+
+aad 0x12345678
+asb 0xabcdabcd
+aml 0x12345678
+aan 0xabcdabcd
+aor 0x12345678
+axr 0xabcdabcd
+asl 0x12345678
+asr 0xabcdabcd
+
+aad @0x12345678
+asb @0xabcdabcd
+aml @0x12345678
+aan @0xabcdabcd
+aor @0x12345678
+axr @0xabcdabcd
+asl @0x12345678
+asr @0xabcdabcd
+
+aad reg
+asb reg
+aml reg
+aan reg
+aor reg
+axr reg
+asl reg
+asr reg
+
+aad stk
+asb stk
+aml stk
+aan stk
+aor stk
+axr stk
+asl stk
+asr stk

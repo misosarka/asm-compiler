@@ -1,0 +1,10 @@
+#com #
+    # comm ent 
+val 00000000 #val
+set @00000001#set
+add # comment in the middle of a statement
+ stk
+    mov#comment inside...
+ @ar  # ...a move statement
+reg
+# Comment on the last line works too!

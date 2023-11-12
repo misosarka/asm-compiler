@@ -1,0 +1,6 @@
+val 0
+$my_label1
+ $MyLabel_2_
+jmp @my_label1 $_3_myLabeL
+jnf @_3_myLabeL
+cal @MyLabel_2_

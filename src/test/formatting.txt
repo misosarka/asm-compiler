@@ -1,0 +1,9 @@
+    inc
+ jmp      @016  
+ 
+dec
+
+ aad    
+reg mov 0o100 
+    ar
+ 
